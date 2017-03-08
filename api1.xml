@@ -1,0 +1,34 @@
+<catalog>
+  <book id="bk101" di="hello1">
+     <author>GambardellaMatthew0123456789</author>
+     <title>XMLDevelopersGuide0123456789</title>
+     <genre>Computer0123456789</genre>
+     <price>44950123456789</price>
+     <publishidate>2000i10i010123456789</publishidate>
+     <description>AninidepthlookatcreatingapplicationswithXML012</description>
+  </book>
+  <book id="bk102" di="hello2">
+     <author>GambardellaMatthew0123456789</author>
+     <title>XMLDevelopersGuide0123456789</title>
+     <genre>Computer0123456789</genre>
+     <price>44950123456789</price>
+     <publishidate>2000i10i010123456789</publishidate>
+     <description>AninidepthlookatcreatingapplicationswithXML012</description>
+  </book>
+  <book id="bk103" di="hello3">
+     <author>GambardellaMatthew0123456789a</author>
+     <title>XMLDevelopersGuide0123456789a</title>
+     <genre>Computer0123456789a</genre>
+     <price>44950123456789a</price>
+     <publishidate>2000i10i010123456789a</publishidate>
+     <description>AninidepthlookatcreatingapplicationswithXML012a</description>
+  </book>
+  <book id="bk104" di="hello4">
+     <author>GambardellaMatthew0123456789a</author>
+     <title>XMLDevelopersGuide0123456789a</title>
+     <genre>Computer0123456789a</genre>
+     <price>44950123456789a</price>
+     <publishidate>2000i10i010123456789a</publishidate>
+     <description>AninidepthlookatcreatingapplicationswithXML012</description>
+  </book>
+</catalog>
